@@ -4,17 +4,17 @@ body {
 
 
 .page-body {
-  display: flex;
-  width: 100%;
-  height: 100%;
-  min-height: 100vh;
-  /* background-color: linear-gradient(179.98deg, #001958 0.01%, #4F5079 99.99%); */
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  z-index: 1;
-  background: url(../img/pcbg.jpeg) no-repeat center;
-  background-size: cover;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    background-color: unset;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+    background-image: unset;
+    background: linear-gradient(179.98deg, #272525 0.01%, #17579d 99.99%);
 }
 .page-center {
   display: flex;
@@ -181,6 +181,7 @@ body {
 
 .icon-text {
   display: flex;
+  width: 99%;
 }
 .ico {
   margin-right: 8px;
@@ -330,7 +331,7 @@ a:hover {
     position: relative;
     z-index: 1;
     background-image: unset;
-    background: linear-gradient(179.98deg, #001958 0.01%, #4F5079 99.99%);
+    background: linear-gradient(179.98deg, #272525 0.01%, #17579d 99.99%);
   }
   .page-center {
     display: flex;
@@ -339,7 +340,6 @@ a:hover {
     min-height: 100vh;
     flex-direction: column;
     align-items: center;
-    max-width: 400px;
     padding: 40px 29px;
     padding-bottom: 24px;
     position: relative;

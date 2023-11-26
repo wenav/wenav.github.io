@@ -181,7 +181,7 @@ body {
 
 .icon-text {
   display: flex;
-  width: 99%;
+
 }
 .ico {
   margin-right: 8px;
@@ -480,6 +480,7 @@ a:hover {
 
   .icon-text {
     display: flex;
+      width: 117%;
   }
   .ico {
     margin-right: 8px;

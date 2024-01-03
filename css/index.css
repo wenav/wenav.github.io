@@ -92,8 +92,6 @@ body {
   align-items: flex-start;
   padding: 5px 0px;
   width: 100%;
-  background: rgba(255, 255, 255, 0.08);
-  border: 1px solid rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(16.5px);
   border-radius: 16px;
   margin-top: 15px;
@@ -405,8 +403,6 @@ a:hover {
     align-items: flex-start;
     padding: 5px 0px;
     width: 100%;
-    background: rgba(255, 255, 255, 0.08);
-    border: 1px solid rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(16.5px);
     border-radius: 16px;
     margin-top: 15px;
